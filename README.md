@@ -15,7 +15,7 @@ You will have to make a number of decisions as you develop this solution:
 1. The document similarity algorithm does not need to perform well, and you don’t need to account for all edge cases. Focus on having some fun with it and producing code that we can discuss together.
 1. Use the 3 sample texts provided below to develop your app. Samples 1 and 2 should be more similar than samples 1 and 3.
 You may choose any language you like, but do not import any libraries.\
-Examples of libraries you CANNOT use:
+Examples of libraries you **CANNOT** use:
    1. scikit-learn
    1. NLTK
    1. spaCy
